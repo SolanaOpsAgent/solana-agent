@@ -946,7 +946,7 @@ async for response in solana_agent.process("user123", "What are the latest AI de
 
 The official collection of tools in one plugin
 
-[Solana Agent Kit](https://github.com/truemagic-coder/solana-agent-kit)
+[Solana Agent Kit](https://github.com/SolanaOpsAgent/solana-agent-app)
 
 ## Example App
 
