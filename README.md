@@ -952,7 +952,7 @@ The official collection of tools in one plugin
 
 The official example app written in FastAPI and Next.js
 
-[Solana Agent Example App](https://github.com/truemagic-coder/solana-agent-app)
+[Solana Agent Example App](https://github.com/SolanaOpsAgent/solana-agent)
 
 ## Contributing
 
